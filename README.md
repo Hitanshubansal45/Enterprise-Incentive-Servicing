@@ -48,16 +48,16 @@ Built a 4-page dashboard on a star schema data model (1 fact table, 4 dimension 
 ## Dashboard Preview
 
 **Executive Summary**
-![Executive Summary](powerbi/screenshots/page1_executive_summary.png)
+![Executive Summary](employee-incentive-compensation-analytics/powerbi/screenshots/page1_executive_summary.png)
 
 **Compensation Equity Analysis**
-![Compensation Equity Analysis](powerbi/screenshots/page2_compensation_equity.png)
+![Compensation Equity Analysis](employee-incentive-compensation-analytics/powerbi/screenshots/page2_compensation_equity.png)
 
 **Incentive Program Tracker**
-![Incentive Program Tracker](powerbi/screenshots/page3_incentive_tracker.png)
+![Incentive Program Tracker](employee-incentive-compensation-analytics/powerbi/screenshots/page3_incentive_tracker.png)
 
 **Participant Eligibility Register**
-![Participant Eligibility Register](powerbi/screenshots/page4_eligibility_register.png)
+![Participant Eligibility Register](employee-incentive-compensation-analytics/powerbi/screenshots/page4_eligibility_register.png)
 
 ---
 
